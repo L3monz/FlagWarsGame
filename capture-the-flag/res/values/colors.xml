@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2014 Microsoft Mobile.
+    See the license text file delivered with this project for more information. 
+-->
+<resources>
+    <color name="fragment_background_color">#DDffffff</color>
+    <color name="fragment_base_background_color">#fcfcfc</color>
+    <color name="blue_background_color">#0568ff</color>
+    <color name="transparent_blue_background_color">#880568ff</color>
+    <color name="white">#ffffff</color>
+    <color name="light_hyperlink_color">#ccddff</color>
+</resources>
